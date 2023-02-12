@@ -1,4 +1,4 @@
-# List of prompts
+# List of prompts to generate Postal Codes rules and JS
 
 Our goal is to have a conversation with ChatGPT to:
 
