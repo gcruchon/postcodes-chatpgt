@@ -1,0 +1,22 @@
+{
+  "name": "postcodes-chatpgt",
+  "version": "1.0.0",
+  "description": "Test with ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --config ./cucumber.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcruchon/postcodes-chatpgt.git"
+  },
+  "author": "Gilles CRUCHON <gilles.cruchon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcruchon/postcodes-chatpgt/issues"
+  },
+  "homepage": "https://github.com/gcruchon/postcodes-chatpgt#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.11.0"
+  }
+}
